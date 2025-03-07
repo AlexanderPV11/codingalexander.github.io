@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main  # Cambia a tu rama principal si es diferente a 'main'
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
@@ -17,7 +18,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
-          node-version: '16'  # Ajusta a la versión de Node.js que necesitas
+          node-version: '18'  # Ajusta a la versión de Node.js que es compatible con Astro
 
       # Paso 3: Instalar dependencias
       - name: Install dependencies

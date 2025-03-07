@@ -610,7 +610,8 @@
         "Python": "simple-icons:python",
         "PostgreSQL": "simple-icons:postgresql"
       },
-      "url": ""
+      "url": "",
+      "github": ""
     },
     {
       "name": "Helpy",
@@ -633,7 +634,8 @@
         "Python": "simple-icons:python",
         "PostgreSQL": "simple-icons:postgresql"
       },
-      "url": ""
+      "url": "",
+      "github": ""
     },
     {
       "name": "Portafolio",
@@ -652,7 +654,8 @@
         "PNPM": "simple-icons:pnpm",
         "Vercel": "simple-icons:vercel"
       },
-      "url": ""
+      "url": "",
+      "github": ""
     }
   ]
 }

@@ -1,0 +1,658 @@
+{
+  "analyticsCode": "",
+  "basics": {
+    "name": "Antonio Alexander Palma Vera",
+    "label": "Software Developer",
+    "animated_main_label": "developer",
+    "animated_secondary_initial_label": "software",
+    "animated_secondary_final_label": "Back end",
+    "image": "/yo.png",
+    "email": "coding.apv@gmail.com",
+    "url": "https://www.linkedin.com/in/antonio-alexander-palma-vera-75125b153/",
+    "summary": "Soy desarrollador backend con experiencia en personalizaciones de Odoo, Node.js, JavaScript, TypeScript, Python, Express, PostgreSQL y MongoDB. También tengo experiencia en el desarrollo de API RESTful. Actualmente, sigo ampliando mis conocimientos en tecnologías y prácticas de infraestructura backend, incluyendo temas como Cloud Computing y DevOps.",
+    "theme": "Cyberpunk",
+    "location": {
+      "address": "Pichincha",
+      "city": "Quito",
+      "countryCode": "ES",
+      "region": "Ecuador"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "icon": "ri:linkedin-fill",
+        "color": "#0066C2",
+        "username": "Antonio Alexander Palma Vera",
+        "url": "https://www.linkedin.com/in/antonio-alexander-palma-vera-75125b153/"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "color": "#929AAB",
+        "username": "AlexanderPV11",
+        "url": "https://github.com/AlexanderPV11"
+      },
+      {
+        "network": "Email",
+        "icon": "ri:mail-fill",
+        "color": "#D44638",
+        "username": "Antonio Alexander Palma Vera",
+        "url": "coding.apv@gmail.com"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Instituto Tecnológico Superior Babahoyo",
+      "area": "Analista de Sistemas Informáticos",
+      "studyType": "Full-time student",
+      "startDate": "2015-04-01",
+      "endDate": "2018-12-01"
+    },
+    {
+      "institution": "Universidad Técnica de Babahoyo",
+      "url": "https://www.linkedin.com/school/universidad-t%C3%A9cnica-de-babahoyo/",
+      "area": "Ingenieria en Sistemas de Información",
+      "studyType": "Full-time student",
+      "startDate": "2018-1-01",
+      "endDate": "2022-9-01"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Master en APIs RESTful con NodeJS: Crea 3 backends completos",
+      "date": "2025-01-07",
+      "url": "https://www.udemy.com/certificate/UC-4d8deaef-1132-4a8b-a5e4-711433fd4e5c/",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Scrum Master y Product Owner Certificación. Temario completo",
+      "date": "2024-05-06",
+      "url": "https://www.udemy.com/certificate/UC-74ec08bd-e4a2-4bed-90bb-bd2db737aa42/",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Odoo: Curso de desarrollo completo para programadores",
+      "date": "2024-02-15",
+      "url": "https://www.udemy.com/certificate/UC-a7ec0179-3368-4651-92fd-c20549beb9fb/",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Programa Certificado: Especialista en Neuromarketing",
+      "date": "2023-09-21",
+      "url": "https://www.udemy.com/certificate/UC-6b0bca87-1f21-479f-892a-6ab6e4be7c31/",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "WhatsApp API, C# .NET y ChatGPT Enviar-recibir mensajes Bot",
+      "date": "2023-09-31",
+      "url": "https://www.udemy.com/certificate/UC-6b0bca87-1f21-479f-892a-6ab6e4be7c31/",
+      "issuer": "Udemy"
+    },
+    {
+      "name": "Fundamentos Power BI",
+      "url": "https://courses.architechpro.cc/g-talent/validez_certificado?h=bwfaJunMq66CKtZKc7NHbqsB%2FdG5ymk66yJ76XBgsZB6pI%2FdxgNg59YGZTyRuSri",
+      "date": "2023-02-4",
+      "issuer": "G-Talent"
+    }
+  ],
+  "work": [
+    {
+      "name": "Citytech",
+      "position": "Desarrollador Jr",
+      "location_type": "Presencial",
+      "location": "Quito, Pichincha, Ecuador",
+      "url": "",
+      "startDate": "2024-04-01",
+      "endDate": null,
+      "summary": "Actualmente soy Desarrollador Jr en Citytech, trabajando en Odoo (Python, JavaScript, XML, CSS, Bootstrap) tanto en versiones Enterprise como Community. Además, manejo bases de datos PostgreSQL y desarrollo nuevas funcionalidades acordes a las líneas de negocio y procesos. Me encargo del análisis e implementación de soluciones de software basadas en requerimientos, así como del mantenimiento y control de cambios según las necesidades del cliente. También desarrollo en módulos existentes de Odoo como Contabilidad, Compra, Venta, Fabricación, CRM, Sitio Web, Contactos y parámetros de configuración. Adicionalmente, estoy manejando tecnologías como TypeScript, Node.js, Express y TypeORM para complementar mi desarrollo en aplicaciones web y sistemas backend.",
+      "responsibilities": [
+        "Desarrollador Jr (Odoo) - Python, JavaScript, XML, CSS, Bootstrap",
+        "Desarrollador en versiones Enterprise y Community de Odoo",
+        "Manejo de bases de datos (PostgreSQL)",
+        "Desarrollo de nuevas funcionalidades acorde a una línea de negocios o procesos",
+        "Análisis e implementación de soluciones de software en base a requerimientos",
+        "Mantenimiento y controles de cambios acorde a las necesidades del cliente",
+        "Desarrollo en módulos existentes (Contabilidad, Compra, Venta, Fabricación, CRM, Sitio web, Contactos, Parámetros de configuración incluyendo usuarios, calendario, acciones planificadas, Correo electrónico)",
+        "Desarrollo utilizando tecnologías adicionales como TypeScript, Node.js, Express y TypeORM"
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Python": "simple-icons:python",
+        "PostgreSQL": "simple-icons:postgresql",
+        "TypeScript": "simple-icons:typescript",
+        "NodeJS": "ri:nodejs-line",
+        "Postman": "simple-icons:postman",
+        "Express": "simple-icons:express",
+        "TypeORM": "simple-icons:typeorm",
+        "Kubernetes": "simple-icons:kubernetes",
+        "Docker": "simple-icons:docker"
+      }
+    },
+    {
+      "name": "Infinit-Plus Cia. Ltda. (Tecnologías Infinitas)",
+      "position": "Desarrollador Jr Python",
+      "location_type": "Presencial",
+      "location": "Quito, Pichincha, Ecuador",
+      "url": "",
+      "startDate": "2023-03-01",
+      "endDate": "2024-03-31",
+      "summary": "Fui Desarrollador Jr especializado en Odoo, utilizando tecnologías como Python, JavaScript, XML, CSS y Bootstrap. Además, manejé bases de datos PostgreSQL y trabajé con AWS. Durante mi tiempo en Infinit-Plus, participé en el desarrollo de sistemas contables y turno-máticos, así como en el levantamiento de requerimientos de software. También me desempeñé como capacitador sobre las funcionalidades del software.",
+      "responsibilities": [
+        "Desarrollador Jr (Odoo) - Python, JavaScript, XML, CSS, Bootstrap",
+        "Manejo de bases de datos (PostgreSQL) y AWS",
+        "Desarrollo de sistemas contables y turno-máticos",
+        "Levantamiento de requerimientos (Software)",
+        "Capacitación sobre funcionalidades del software"
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "Odoo": "mdi:application",
+        "GitHub": "mdi:github",
+        "Python": "simple-icons:python",
+        "PostgreSQL": "simple-icons:postgresql",
+        "AWS": "simple-icons:amazonaws"
+      }
+    },
+    {
+      "name": "IMPAS (Importadora de Papelería y Suministros)",
+      "position": "Auxiliar de Tecnologías",
+      "location_type": "Presencial",
+      "location": "Quito, Pichincha, Ecuador",
+      "url": "",
+      "startDate": "2022-01-01",
+      "endDate": "2023-12-31",
+      "summary": "Fui Auxiliar de Tecnologías, manejando bases de datos en SQL Server y realizando el mantenimiento de equipos de cómputo. Además, trabajé como Desarrollador Jr, desarrollando y corrigiendo funcionalidades en el sistema administrativo (Odoo) utilizando tecnologías como Python, Bootstrap y JavaScript.",
+      "responsibilities": [
+        "Manejo de Base de Datos (SQL Server)",
+        "Mantenimiento de equipos de cómputo",
+        "Desarrollador Jr - Desarrollo y corrección de funcionalidades en el sistema administrativo (Odoo)",
+        "Desarrollo utilizando Python, Bootstrap y JavaScript"
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "Odoo": "mdi:application",
+        "GitHub": "mdi:github",
+        "Python": "simple-icons:python"
+      }
+    },
+    {
+      "name": "Comercial Mayorista Roxana",
+      "position": "Asistente de Sistemas",
+      "location_type": "Presencial",
+      "location": "Milagro, Guayas, Ecuador",
+      "url": "",
+      "startDate": "2019-09-01",
+      "endDate": "2022-09-03",
+      "summary": "Fui Administrador de Inventarios con experiencia en el manejo de stock de mercadería, controlando la expedición y recepción de mercancías en bodega. He trabajado como Auxiliar de Sistemas, encargándome de la administración de bases de datos en SQL Server. Además, tengo habilidades en programación, desarrollando funcionalidades dentro de sistemas de inventarios utilizando Laravel y PHP, lo que me ha permitido optimizar y automatizar procesos en el área de gestión de inventarios.",
+      "responsibilities": [
+        "Stock de Mercadería - Administrador de Inventario",
+        "Control de expedición y recepción de mercancías (Bodega)",
+        "Auxiliar de sistemas - Administración de DB (SQL Server)",
+        "Programar funcionalidades dentro del sistema de inventarios (Laravel - PHP)"
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github"
+      }
+    },
+    {
+      "name": "Corporación de Tecnologías Computacionales",
+      "position": "Auxiliar de Sistemas",
+      "location_type": "Presencial",
+      "location": "Babahoyo, Los Rios, Ecuador",
+      "url": "",
+      "startDate": "2017-07-03",
+      "endDate": "2019-07-03",
+      "summary": "Forme parte de un equipo de soporte técnico y Help Desk, así como en el desarrollo de software como Desarrollador Jr, manejando tecnologías como Java, C# y Vue.js. Además, cuento con conocimientos en redes y networking, lo que me permite gestionar infraestructuras y solucionar problemas relacionados con conectividad. También tengo experiencia como instalador de cámaras de seguridad y sistemas de alarmas, brindando soluciones completas en el área de tecnología y seguridad.",
+      "responsibilities": [
+        "Técnico Informático - Help Desk",
+        "Desarrollador Jr (Java, C#, Vue.js)",
+        "Manejo de redes - Networking",
+        "Instalador de cámaras de seguridad y alarmas"
+      ],
+      "skills": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "Vue": "mdi:vuejs",
+        "Postman": "simple-icons:postman",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Figma": "simple-icons:figma"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "SCSS",
+      "icon": "simple-icons:sass",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Preprocessor",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "Bootstrap",
+      "icon": "simple-icons:bootstrap",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Angular",
+      "icon": "simple-icons:angular",
+      "level": "Advanced",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Framework",
+        "UI"
+      ]
+    },
+    {
+      "name": "RxJS",
+      "icon": "simple-icons:reactivex",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Reactive Programming",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Vue",
+      "icon": "mdi:vuejs",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "PNPM",
+      "icon": "simple-icons:pnpm",
+      "level": "Beginner",
+      "keywords": [
+        "Package Manager",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Java",
+      "icon": "ri:java-line",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Spring",
+      "icon": "simple-icons:spring",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Java Framework"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Beginner",
+      "keywords": [
+        "Databases",
+        "File",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "icon": "simple-icons:mysql",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Databases",
+        "SQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
+      "icon": "simple-icons:postgresql",
+      "level": "Beginner",
+      "keywords": [
+        "Backend",
+        "Databases",
+        "SQL",
+        "Relational Database"
+      ]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Advanced",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "AWS",
+      "icon": "simple-icons:amazonaws",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "Backend",
+        "Infrastructure"
+      ]
+    },
+    {
+      "name": "Docker",
+      "icon": "mdi:docker",
+      "level": "Beginner",
+      "keywords": [
+        "Virtual Environments",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Kubernetes",
+      "icon": "mdi:kubernetes",
+      "level": "Beginner",
+      "keywords": [
+        "Virtual Environments",
+        "Backend",
+        "Container Orchestration"
+      ]
+    },
+    {
+      "name": "Python",
+      "icon": "simple-icons:python",
+      "level": "Beginner",
+      "keywords": [
+        "Scripting",
+        "Automation",
+        "Web Development"
+      ]
+    },
+    {
+      "name": "Jest",
+      "icon": "simple-icons:jest",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Jasmine",
+      "icon": "simple-icons:jasmine",
+      "level": "Intermediate",
+      "keywords": [
+        "Testing",
+        "Web Development",
+        "Frontend",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Beginner",
+      "keywords": [
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Beginner",
+      "keywords": [
+        "OS",
+        "Scripting",
+        "Automation"
+      ]
+    },
+    {
+      "name": "Swagger",
+      "icon": "simple-icons:swagger",
+      "level": "Beginner",
+      "keywords": [
+        "API",
+        "Documentation",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Postman",
+      "icon": "simple-icons:postman",
+      "level": "Intermediate",
+      "keywords": [
+        "API",
+        "Testing",
+        "Web Development",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Figma",
+      "icon": "simple-icons:figma",
+      "level": "Beginner",
+      "keywords": [
+        "Prototyping",
+        "Web Development",
+        "Frontend"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Basico - B1"
+    }
+  ],
+  "projects": [
+    {
+      "name": "EasyGym",
+      "isActive": true,
+      "description": "Un sistema de gestión y administración de gimnasios basado en Odoo 17, que permite la administración de planes de entrenamiento, planes de dieta, control de suscripciones y generación de reportes de progreso de los clientes. Facilita la gestión integral de un gimnasio mediante una plataforma centralizada.",
+      "highlights": [
+        "🎯 Gestión de planes de entrenamiento y dieta personalizados",
+        "✨ Control de suscripciones y membresías de clientes",
+        "🚀 Generación de reportes de progreso de los clientes"
+      ],
+      "stack": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Python": "simple-icons:python",
+        "PostgreSQL": "simple-icons:postgresql"
+      },
+      "url": ""
+    },
+    {
+      "name": "Helpy",
+      "isActive": true,
+      "description": "Un sistema de gestión de Helpdesk basado en Odoo 17, diseñado para gestionar solicitudes de soporte, seguimiento de tickets, asignación de tareas a agentes y generación de reportes de desempeño. Facilita la atención al cliente de manera eficiente y centralizada.",
+      "highlights": [
+        "🎯 Gestión de tickets de soporte con asignación a agentes",
+        "✨ Seguimiento de solicitudes y tiempos de respuesta",
+        "🚀 Reportes de desempeño y análisis de métricas de soporte"
+      ],
+      "stack": {
+        "HTML5": "simple-icons:html5",
+        "CSS3": "ri:css3-fill",
+        "SCSS": "simple-icons:sass",
+        "Bootstrap": "simple-icons:bootstrap",
+        "JavaScript ECMA6+": "simple-icons:javascript",
+        "i18n": "simple-icons:i18next",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Python": "simple-icons:python",
+        "PostgreSQL": "simple-icons:postgresql"
+      },
+      "url": ""
+    },
+    {
+      "name": "Portafolio",
+      "isActive": true,
+      "description": "¡Este sitio web! Mi portafolio personal, creado con Astro. Integra múltiples temas y acciones de atajos de teclado.",
+      "highlights": [
+        "🚀 Rápido, moderno y amigable con SEO",
+        "🎨 Generación de CV imprimible",
+        "〔N〕Modo NeoVim, ¡pruébalo!"
+      ],
+      "stack": {
+        "Astro": "simple-icons:astro",
+        "TypeScript": "simple-icons:typescript",
+        "Tailwind": "mdi:tailwind",
+        "NodeJS": "ri:nodejs-line",
+        "PNPM": "simple-icons:pnpm",
+        "Vercel": "simple-icons:vercel"
+      },
+      "url": ""
+    }
+  ]
+}

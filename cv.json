@@ -105,6 +105,7 @@
       "url": "",
       "startDate": "2024-04-01",
       "endDate": null,
+      "achievements": [],
       "summary": "Actualmente soy Desarrollador Jr en Citytech, trabajando en Odoo (Python, JavaScript, XML, CSS, Bootstrap) tanto en versiones Enterprise como Community. Además, manejo bases de datos PostgreSQL y desarrollo nuevas funcionalidades acordes a las líneas de negocio y procesos. Me encargo del análisis e implementación de soluciones de software basadas en requerimientos, así como del mantenimiento y control de cambios según las necesidades del cliente. También desarrollo en módulos existentes de Odoo como Contabilidad, Compra, Venta, Fabricación, CRM, Sitio Web, Contactos y parámetros de configuración. Adicionalmente, estoy manejando tecnologías como TypeScript, Node.js, Express y TypeORM para complementar mi desarrollo en aplicaciones web y sistemas backend.",
       "responsibilities": [
         "Desarrollador Jr (Odoo) - Python, JavaScript, XML, CSS, Bootstrap",
@@ -144,6 +145,7 @@
       "url": "",
       "startDate": "2023-03-01",
       "endDate": "2024-03-31",
+      "achievements": [],
       "summary": "Fui Desarrollador Jr especializado en Odoo, utilizando tecnologías como Python, JavaScript, XML, CSS y Bootstrap. Además, manejé bases de datos PostgreSQL y trabajé con AWS. Durante mi tiempo en Infinit-Plus, participé en el desarrollo de sistemas contables y turno-máticos, así como en el levantamiento de requerimientos de software. También me desempeñé como capacitador sobre las funcionalidades del software.",
       "responsibilities": [
         "Desarrollador Jr (Odoo) - Python, JavaScript, XML, CSS, Bootstrap",
@@ -175,6 +177,7 @@
       "url": "",
       "startDate": "2022-01-01",
       "endDate": "2023-12-31",
+      "achievements": [],
       "summary": "Fui Auxiliar de Tecnologías, manejando bases de datos en SQL Server y realizando el mantenimiento de equipos de cómputo. Además, trabajé como Desarrollador Jr, desarrollando y corrigiendo funcionalidades en el sistema administrativo (Odoo) utilizando tecnologías como Python, Bootstrap y JavaScript.",
       "responsibilities": [
         "Manejo de Base de Datos (SQL Server)",
@@ -203,6 +206,7 @@
       "url": "",
       "startDate": "2019-09-01",
       "endDate": "2022-09-03",
+      "achievements": [],
       "summary": "Fui Administrador de Inventarios con experiencia en el manejo de stock de mercadería, controlando la expedición y recepción de mercancías en bodega. He trabajado como Auxiliar de Sistemas, encargándome de la administración de bases de datos en SQL Server. Además, tengo habilidades en programación, desarrollando funcionalidades dentro de sistemas de inventarios utilizando Laravel y PHP, lo que me ha permitido optimizar y automatizar procesos en el área de gestión de inventarios.",
       "responsibilities": [
         "Stock de Mercadería - Administrador de Inventario",
@@ -229,6 +233,7 @@
       "url": "",
       "startDate": "2017-07-03",
       "endDate": "2019-07-03",
+      "achievements": [],
       "summary": "Forme parte de un equipo de soporte técnico y Help Desk, así como en el desarrollo de software como Desarrollador Jr, manejando tecnologías como Java, C# y Vue.js. Además, cuento con conocimientos en redes y networking, lo que me permite gestionar infraestructuras y solucionar problemas relacionados con conectividad. También tengo experiencia como instalador de cámaras de seguridad y sistemas de alarmas, brindando soluciones completas en el área de tecnología y seguridad.",
       "responsibilities": [
         "Técnico Informático - Help Desk",

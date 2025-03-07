@@ -5,11 +5,11 @@
 #yarn-error.log
 
 # TypeScript
-#/dist
-#/tsconfig.tsbuildinfo
+/dist
+/tsconfig.tsbuildinfo
 
 # Astro
-#.astro/
+.astro/
 
 # JetBrains
 #.idea/
@@ -28,4 +28,4 @@
 *.swp
 
 # Vercel
-#.vercel
+.vercel

@@ -11,6 +11,7 @@
     "deploy:vercel": "vercel deploy",
     "deploy:cloudflare": "astro build && wrangler pages deploy ./dist"
   },
+  "packageManager": "pnpm@8.6.0",
   "dependencies": {
     "@astrojs/tailwind": "^5.1.1",
     "@astrojs/markdown-remark": "^5.1.1",

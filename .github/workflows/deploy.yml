@@ -48,5 +48,4 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
         with:
-          # Apunta a la carpeta 'dist' para desplegarla directamente
-          path: ./dist  # La carpeta donde se genera la construcción final
+          path: ./dist  # Apunta a la carpeta 'dist' generada por 'astro build'

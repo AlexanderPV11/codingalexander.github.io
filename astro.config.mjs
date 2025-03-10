@@ -4,7 +4,8 @@ import tailwind from "@astrojs/tailwind";
 import astroIcon from 'astro-icon';
 import mdx from '@astrojs/mdx';
 import playformCompress from "@playform/compress";
-import vercel from "@astrojs/vercel/serverless";
+// Eliminar el adaptador de Vercel si solo deseas una versión estática
+// import vercel from "@astrojs/vercel/serverless";
 
 // https://astro.build/config
 export default defineConfig({
@@ -22,12 +23,11 @@ export default defineConfig({
       CSS: false,
       Image: false,
       Action: {
-        Passed: async () => true,   // https://github.com/PlayForm/Compress/issues/376
+        Passed: async () => true,
       },
     })
   ],
-  output: "hybrid",
-  adapter: vercel(),
+  output: "static",  // Generar una versión estática
   site: "https://alexanderpv11.github.io",
   base: "codingalexander.github.io",
 });

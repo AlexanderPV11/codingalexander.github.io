@@ -28,15 +28,16 @@ jobs:
           node-version: 20 # Specify the version of Node.js
 
       # Step 3: Install pnpm
-      - name: Install pnpm
-        run: npm install -g pnpm
+      - name: Set up pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: 8.6.0 # Usa la misma versión que tengas en package.json, si está definido
 
       # Step 4: Install dependencies and build the site
-      - name: Install, build, and upload your site
-        uses: withastro/action@v3
-        with:
-          package-manager: pnpm@latest # Specify pnpm as the package manager
-          node-version: 20 # Optional: Ensure Node.js version is consistent
+      - name: Install dependencies and build
+        run: |
+          pnpm install
+          pnpm run build
 
   deploy:
     needs: build

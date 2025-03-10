@@ -36,13 +36,6 @@ jobs:
           pnpm install
           pnpm run build
 
-      # Step 5: Upload the build output as an artifact
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: github-pages
-          path: dist # Cambia `dist` por la carpeta donde tu proyecto guarda los archivos de compilación
-
   deploy:
     needs: build
     runs-on: ubuntu-latest
@@ -50,13 +43,10 @@ jobs:
       name: gpages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      # Step 1: Download the artifact
-      - name: Download artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: github-pages
-
-      # Step 2: Deploy to GitHub Pages
+      # Step 1: Deploy directly to GitHub Pages (without using artifact)
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          # Apunta a la carpeta 'dist' para desplegarla directamente
+          path: ./dist  # La carpeta donde se genera la construcción final

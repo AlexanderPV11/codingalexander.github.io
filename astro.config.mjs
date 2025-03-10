@@ -28,5 +28,6 @@ export default defineConfig({
   ],
   output: "hybrid",
   adapter: vercel(),
-  site: "https://arielfalcon.me",
+  site: "https://alexanderpv11.github.io",
+  base: "codingalexander.github.io",
 });

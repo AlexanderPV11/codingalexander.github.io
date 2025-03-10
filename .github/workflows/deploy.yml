@@ -25,6 +25,10 @@ jobs:
         with:
           node-version: 20  # Ajusta esta versión a la que necesites
 
+      # Step 3: Ensure Astro is executable
+      - name: Ensure Astro is executable
+        run: chmod +x node_modules/.bin/astro
+
       # Step 3: Install dependencies using pnpm (o npm si prefieres)
       - name: Install dependencies
         run: |
@@ -54,6 +58,6 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          branch: gh-pages  # Despliega en la rama 'gh-pages' (puedes ajustarlo a tu necesidad)
+          branch: gpages  # Despliega en la rama 'gh-pages' (puedes ajustarlo a tu necesidad)
           folder: dist      # Asegúrate de que este es el directorio correcto donde se generó tu sitio
 
